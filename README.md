@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Andres Lancheros (DonLonjas) 👋</h1>
-<p align="center">Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones web con JavaScript — Node.js y Express por detrás, frontends con React y Vite cuando toca — y bots de Discord que la gente usa de verdad.</p>
+<p align="center">Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones web con JavaScript — Node.js y Express por detrás, frontends con React y Vite cuando toca — y bots de Discord para comunidades privadas.</p>
 
 ## Proyectos
 - **[Albion Master](https://albionmaster.site/)** — Bot de Discord para Albion Online: eventos y splits de silver, canales de voz temporales, scout de recursos con 278 mapas, mercado por IA (beta), licencias y panel. 37 comandos en ES/EN.
@@ -14,3 +14,7 @@
 ## Dónde encontrarme
 - Portfolio: [andreslancheros.dev](https://andreslancheros.dev/)
 - Web: [andreslancheros.dev](https://andreslancheros.dev/)
+
+
+# 💻 Tecnologias:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
