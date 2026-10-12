@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Andres Lancheros (DonLonjas) 👋</h1>
+<h1 align="center">Andres Lancheros👋</h1>
 <p align="center">Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones web con JavaScript — Node.js y Express por detrás, frontends con React y Vite cuando toca — y bots de Discord para comunidades privadas.</p>
 
 ## Proyectos
