@@ -1,5 +1,5 @@
-# Hola, soy Andres Lancheros (DonLonjas) 👋
-Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones web con JavaScript — Node.js y Express por detrás, frontends con React y Vite cuando toca — y bots de Discord que la gente usa de verdad.
+<h1 align="center">Hola, soy Andres Lancheros (DonLonjas) 👋</h1>
+<p align="center">Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones web con JavaScript — Node.js y Express por detrás, frontends con React y Vite cuando toca — y bots de Discord que la gente usa de verdad.</p>
 
 ## Proyectos
 - **[Albion Master](https://albionmaster.site/)** — Bot de Discord para Albion Online: eventos y splits de silver, canales de voz temporales, scout de recursos con 278 mapas, mercado por IA (beta), licencias y panel. 37 comandos en ES/EN.
@@ -9,8 +9,8 @@ Desarrollador full-stack junior desde Yopal, Colombia. Construyo aplicaciones we
 - **[Sameron Pizza](https://sameronpizza.vercel.app/)** — Web para una pizzería de Yopal: catálogo y pedidos en línea. React + Vite.
 
 ## Stack
-JavaScript · Node.js · Express · React · Vite · HTML/CSS · SQL · MongoDB · Discord.js
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Dónde encontrarme
 - Portfolio: [andreslancheros.dev](https://andreslancheros.dev/)
-- Web: [lonjas.site](https://lonjas.site/)
+- Web: [andreslancheros.dev](https://andreslancheros.dev/)
